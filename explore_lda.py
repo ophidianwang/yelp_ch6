@@ -17,9 +17,9 @@ def print_top_words(model, feature_names, n_top_words):
 
 n_topics = 100
 
-lda = LDA(  n_topics=n_topics, max_iter=5,
+lda = LDA(  n_topics=n_topics, max_iter=10,
             learning_method='online', learning_offset=50.,
-            random_state=0)
+            random_state=0, n_jobs=-1)
 
 tfidf_feature_names = []
 with open("yelp_ch6/tfidf_feature.pickle","rb") as f:
