@@ -1,0 +1,279 @@
+Flowers & Gifts	69
+Beer Garden	3
+Weight Loss Centers	4
+Thai	24
+Casinos	5
+Hawaiian	20
+Lebanese	3
+Pubs	42
+Pool Halls	2
+Fast Food	2383
+Grocery	1233
+Indian	38
+Cooking Classes	1
+Art Galleries	9
+Shopping	606
+Festivals	20
+Brasseries	8
+Sandwiches	813
+Parking	2
+Mediterranean	30
+Pets	3
+Ethnic Food	190
+Home Services	1
+American (Traditional)	319
+Internet Cafes	25
+Cooking Schools	5
+Sporting Goods	4
+Brazilian	5
+Mexican	463
+Salad	23
+Performing Arts	1
+Breakfast & Brunch	266
+Religious Organizations	1
+Karaoke	4
+Furniture Stores	15
+Wine Bars	31
+Personal Chefs	2
+Wine Tours	1
+Financial Services	1
+Delicatessen	14
+Meat Shops	104
+Comfort Food	72
+Oil Change Stations	1
+Gas & Service Stations	167
+Patisserie/Cake Shop	9
+Poutineries	3
+Cards & Stationery	1
+American (New)	146
+Food	7862
+Gift Shops	29
+Coffeeshops	12
+Gluten-Free	35
+Food Stands	74
+Egyptian	1
+Middle Eastern	25
+Used, Vintage & Consignment	2
+Music Venues	18
+Party Supplies	3
+Tea Rooms	74
+Car Wash	17
+Portuguese	7
+Professional Services	1
+Fashion	107
+Chocolatiers & Shops	136
+Southern	48
+Pub Food	2
+Bakeries	941
+Flea Markets	1
+Fondue	1
+Adult Education	1
+Comic Books	1
+Gay Bars	3
+Taiwanese	9
+Cheese Shops	51
+Utilities	1
+Polish	4
+French	39
+Donuts	243
+Pretzels	19
+Nutritionists	13
+Bikes	2
+Asian Fusion	46
+Churches	1
+Fish & Chips	41
+Department Stores	102
+Kosher	3
+Fitness & Instruction	3
+African	6
+Trinidadian	1
+Barbeque	51
+Hotels & Travel	16
+Bubble Tea	36
+Bike Repair/Maintenance	1
+Pakistani	4
+Automotive	176
+Travel Services	1
+Breweries	132
+Hot Dogs	44
+Pizza	102
+Bars	203
+Arts & Entertainment	90
+Hotels	6
+Windshield Installation & Repair	1
+Food Trucks	178
+Delis	289
+Education	8
+Vegetarian	44
+Scandinavian	2
+Arts & Crafts	6
+British	20
+Venues & Event Spaces	11
+Pet Services	1
+Baby Gear & Furniture	1
+Cosmetics & Beauty Supply	163
+Australian	2
+Swiss Food	1
+Hookah Bars	6
+Filipino	13
+Szechuan	2
+Creperies	21
+Thrift Stores	2
+German	20
+Women's Clothing	1
+Gastropubs	12
+Desserts	576
+Japanese	42
+Caribbean	10
+Home Decor	16
+Singaporean	1
+Chinese	111
+Dive Bars	4
+Food Banks	2
+Canadian (New)	17
+Horseback Riding	1
+Books, Mags, Music & Video	20
+Juice Bars & Smoothies	325
+Health & Medical	18
+Buffets	11
+Tires	2
+Moroccan	1
+Beauty & Spas	169
+Ethiopian	2
+Steakhouses	129
+Turkish	11
+Modern European	5
+Tex-Mex	151
+Mobile Phones	16
+Halal	6
+Colleges & Universities	2
+Pasta Shops	3
+Bistros	2
+Golf	2
+Landmarks & Historical Buildings	1
+Italian	95
+Party & Event Planning	4
+Korean	15
+Persian/Iranian	2
+Dry Cleaning & Laundry	2
+Bookstores	13
+Massage	3
+Electronics	2
+Jazz & Blues	4
+Playgrounds	1
+Newspapers & Magazines	4
+Florists	45
+Irish	3
+Bagels	185
+Distilleries	5
+Tapas Bars	4
+Ethnic Grocery	3
+Burmese	1
+Pet Stores	2
+Food Court	16
+Herbs & Spices	17
+Health Markets	160
+Sports Wear	1
+Event Planning & Services	97
+Argentine	1
+CSA	5
+Soul Food	78
+Organic Stores	10
+Home & Garden	19
+Indonesian	2
+Hot Pot	1
+Sports Bars	29
+Russian	2
+Tanning	2
+Yoga	1
+Cheesesteaks	9
+Auto Repair	1
+Cafes	287
+Baden	2
+Local Flavor	8
+Couriers & Delivery Services	1
+Candy Stores	103
+Mongolian	1
+Food Delivery Services	106
+Videos & Video Game Rental	1
+Cajun/Creole	26
+Nightlife	241
+Chicken Wings	81
+Live/Raw Food	15
+Latin American	13
+Street Vendors	86
+Cupcakes	39
+Children's Clothing	1
+Traditional Chinese Medicine	1
+Dance Clubs	3
+Community Service/Non-Profit	3
+Smog Check Stations	2
+Bed & Breakfast	2
+Peruvian	2
+Donairs	1
+Ice Cream & Frozen Yogurt	867
+Shaved Ice	66
+Coffee & Tea Supplies	4
+Tours	7
+Convenience Stores	578
+Shopping Centers	3
+Butcher	33
+Colombian	2
+Greek	18
+Diners	16
+Coffee & Tea	1890
+Swimming Pools	1
+Beer Gardens	1
+Cantonese	3
+Do-It-Yourself Food	40
+Fruits & Veggies	56
+Hair Salons	1
+International	2
+Burgers	718
+Discount Store	13
+Gelato	35
+Beverage Store	5
+Hiking	1
+Specialty Schools	5
+Trainers	1
+Tobacco Shops	23
+Drugstores	317
+Specialty Food	1001
+Food Tours	3
+Beer, Wine & Spirits	465
+Caterers	72
+Post Offices	2
+Tapas/Small Plates	5
+Beer Bar	1
+Hobby Shops	1
+Jewelry	1
+Public Services & Government	3
+Farmers Market	130
+Cuban	3
+Seafood	554
+Restaurants	4818
+Local Services	11
+Vietnamese	17
+Lounges	17
+Seafood Markets	52
+Wineries	31
+Sushi Bars	29
+Banks & Credit Unions	1
+Printing Services	2
+Cocktail Bars	3
+Vegan	50
+Kebab	6
+Martial Arts	1
+Scottish	3
+Appliances	1
+Soup	22
+Kitchen & Bath	3
+Arcades	2
+Pest Control	1
+Photography Stores & Services	2
+Vinyl Records	1
+Toy Stores	4
+Dim Sum	8
+Brewing Supplies	4
+Active Life	8
+Wholesale Stores	10
