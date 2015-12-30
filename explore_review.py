@@ -2,7 +2,7 @@
 """
 Created on Mon Dec 28 13:19:12 2015
 
-@author: USER
+@author: Ophidian Wang
 """
 
 import datetime
