@@ -31,9 +31,12 @@ def main():
     vectorizer = None
     if vectorizor_type == "tfidf":
         vectorizer = TfidfVectorizer(max_df=0.5, min_df=10, \
-                                    stop_words='english', use_idf=idf)
+                                    stop_words='english', use_idf=idf, \
+                                    strip_accents="unicode"
+                                    )
     elif vectorizor_type == "count":
-        vectorizer = CountVectorizer(max_df=0.5, min_df=10, stop_words='english')
+        vectorizer = CountVectorizer(max_df=0.5, min_df=10, stop_words='english', \
+                                    strip_accents="unicode")
     else:
         raise Exception("vectorizer_type error")
     
