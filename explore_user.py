@@ -19,16 +19,15 @@ checkin_path = dataset_path + "yelp_academic_dataset_checkin.json"
 tip_path = dataset_path + "yelp_academic_dataset_tip.json"
 destination_path = "../dataset/yelp_review_sampled/"
 
-user_json = ""
-with open(destination_path+"/sampled_user.json","r") as user_file:
+with open(destination_path + "/sampled_user.json", "r") as user_file:
     user_json = "[" + ",".join(user_file.readlines()) + "]"
 user_df = pd.read_json(user_json)
-round_stars = user_df["average_stars"].apply(lambda x:round(x,0))
+round_stars = user_df["average_stars"].apply(lambda x: round(x, 0))
 
 fig, axes = plt.subplots(nrows=2, ncols=1, figsize=(12, 14))
 
 user_df = user_df.assign(round_stars=round_stars)
 user_df.groupby("round_stars").size().plot(title="round avg. stars", kind="bar", ax=axes[0])
 
-user_df= user_df.assign(review_range=user_df["review_count"].apply(lambda x:math.floor(x/100)))
+user_df = user_df.assign(review_range=user_df["review_count"].apply(lambda x: math.floor(x / 100)))
 user_df.groupby("review_range").size().plot(title="review range", kind="bar", ax=axes[1])
